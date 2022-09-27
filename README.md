@@ -831,12 +831,11 @@ Remplace la valeur d'un élément par la valeur
 
 
 
+nano /etc/ssh/sshd_config
 
-
-
-
-
-
+DenyUsers jboulet
+ctrl x save
+ssh jboulet@localhost
 
 
 
