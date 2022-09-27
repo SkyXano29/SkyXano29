@@ -853,6 +853,6 @@ Remplace la valeur d'un élément par la valeur
 6 # La varaible $id reprendra la variable $idSAM en ajoutant "@tssr.info"
 
 
-# $pass contiendra notre password, ConvertTo-SecureString chiffrera le mot de passe, c'est une sécurité propre à powershell
+7 # $pass contiendra notre password, ConvertTo-SecureString chiffrera le mot de passe, c'est une sécurité propre à powershell
 
-# Cette ligne lance la création de l'utilisateur dans l'ad en reprenant les différentes informations ultérieures.
+8 # Cette ligne lance la création de l'utilisateur dans l'ad en reprenant les différentes informations ultérieures.
